@@ -1,4 +1,4 @@
-#! /user/bin/env node
+#! /usr/bin/env node
 // input the 'inquirer' moudle which is a command line interface for Node.js
 import inquirer from "inquirer";
 //Declare a contact 'answers' and it is to the result of inquirer.promp function

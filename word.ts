@@ -1,4 +1,4 @@
-#! /user/bin/env node
+#! /usr/bin/env node
 
 // input the 'inquirer' moudle which is a command line interface for Node.js
 import inquirer from "inquirer";
@@ -24,3 +24,8 @@ console.log(words)
 
 //print the word count of the sentence to the console
 console.log(`your sentence word count is ${words.length}`);
+
+
+
+
+
